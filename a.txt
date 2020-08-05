@@ -1,1 +1,3 @@
 Arquivo a foi alterado...
+
+Entendendo o HEAD
